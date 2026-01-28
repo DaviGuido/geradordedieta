@@ -54,6 +54,10 @@ Não substitui a orientação de um nutricionista ou profissional da saúde
 
 Os resultados dependem da qualidade das informações fornecidas pelo usuário
 
+Fotos: <img width="840" height="908" alt="image" src="https://github.com/user-attachments/assets/f8cd7dfc-be86-4adf-830c-5106c4be01df" />
+
+
+
 
 👨‍💻 Autor
 
