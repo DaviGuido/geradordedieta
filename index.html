@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gerador de Dietas Inteligente</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Gerador de Dietas Inteligente (IA - Llama 3.1)</h1>
+
+<div class="container">
+  <form id="form">
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" placeholder="Ex: João Silva" required>
+
+    <label for="idade">Idade:</label>
+    <input type="number" id="idade" placeholder="Ex: 25" required>
+
+    <label for="genero">Gênero:</label>
+    <select id="genero" required>
+      <option value="">Selecione...</option>
+      <option value="Masculino">Masculino</option>
+      <option value="Feminino">Feminino</option>
+    </select>
+
+    <label for="peso">Peso (kg):</label>
+    <input type="number" id="peso" placeholder="Ex: 70" required>
+
+    <label for="altura">Altura (m):</label>
+    <input type="number" step="0.01" id="altura" placeholder="Ex: 1.75" required>
+
+    <label for="objetivo">Objetivo:</label>
+    <select id="objetivo" required>
+      <option value="">Selecione...</option>
+      <option value="Ganho de Massa">Ganho de Massa</option>
+      <option value="Perda de Peso">Perda de Peso</option>
+      <option value="Manutenção">Manutenção</option>
+    </select>
+
+    <label for="restricoes">Restrições alimentares:</label>
+    <textarea id="restricoes" placeholder="Ex: Intolerância à lactose, vegetariano..."></textarea>
+
+    <label for="refeicoes">Número de refeições por dia (1-6):</label>
+    <input type="number" id="refeicoes" min="1" max="6" placeholder="Ex: 5" required>
+
+    <button type="button" id="gerar">Gerar Plano Alimentar</button>
+    <button type="button" id="pdf">Baixar Plano Alimentar em PDF</button>
+  </form>
+
+  <div id="resultado" class="resultado">Sua dieta gerada aparecerá aqui...</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
