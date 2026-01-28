@@ -53,12 +53,8 @@ O plano alimentar gerado tem finalidade educacional e informativa
 Não substitui a orientação de um nutricionista ou profissional da saúde
 
 Os resultados dependem da qualidade das informações fornecidas pelo usuário
-
-Fotos: 
-<img width="1919" height="990" alt="Tela da Aplicação" src="https://github.com/user-attachments/assets/5cd68c64-5658-44b7-91e4-49f61944692d" />
-
-
-
+ 
+<img width="613" height="909" alt="image" src="https://github.com/user-attachments/assets/174af5f5-0b6e-4977-a034-4f3aefbb252f" />
 
 👨‍💻 Autor
 
