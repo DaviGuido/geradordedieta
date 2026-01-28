@@ -54,7 +54,8 @@ Não substitui a orientação de um nutricionista ou profissional da saúde
 
 Os resultados dependem da qualidade das informações fornecidas pelo usuário
 
-Fotos: <img width="840" height="908" alt="image" src="https://github.com/user-attachments/assets/f8cd7dfc-be86-4adf-830c-5106c4be01df" />
+Fotos: 
+<img width="1919" height="990" alt="Tela da Aplicação" src="https://github.com/user-attachments/assets/5cd68c64-5658-44b7-91e4-49f61944692d" />
 
 
 
